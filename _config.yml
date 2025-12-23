@@ -23,7 +23,7 @@ repository               : "jingyi-li-bjtu/jingyi-li-bjtu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jingyili.jpg"
+  avatar           : "jingyili.png"
   name             : "Jingyi Li"
   # pronouns         : # example: "she/her"  
   bio              : "PhD at BJTU, Visiting Student in 2025-Now"
